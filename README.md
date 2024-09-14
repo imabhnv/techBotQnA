@@ -15,6 +15,15 @@
 - **Streamlit Interface**: A user-friendly web application that provides a seamless experience.
 - **Error Handling**: Robust validation of user input and file availability to ensure smooth operation.
 
+
+### Requirements 🛠️
+```bash
+- pip install streamlit==1.25.0
+- pip install langchain-google-genai==0.0.2
+- pip install google-cloud==0.34.0
+- pip install python-dotenv==0.21.0
+- pip install difflib
+```
 ## Demo
 
 👉 Check out the live demo: [Tech Query Assistant](https://www.linkedin.com/feed/update/urn:li:activity:7240699837174702080/) 
