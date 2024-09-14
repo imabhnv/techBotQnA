@@ -15,7 +15,7 @@ def load_data(file_path):
     return questions_answers
 
 def initialize_llm():
-    llm = ChatGoogleGenerativeAI(model="gemini-pro",api_key="")
+    llm = ChatGoogleGenerativeAI(model="gemini-pro",api_key="_YOUR_GOOGLE_API_KEY_")
     return llm
 
 def ask_model(llm, question):
