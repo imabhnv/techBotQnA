@@ -1,0 +1,5 @@
+streamlit==1.25.0
+langchain-google-genai==0.0.2
+google-cloud==0.34.0
+python-dotenv==0.21.0 
+difflib
